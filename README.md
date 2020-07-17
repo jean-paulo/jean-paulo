@@ -2,6 +2,8 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jean-paulo alt=jean-paulo/> </p>
 
+<p align="center"><img align="center" src="https://media.giphy.com/media/l0K4k1O7RJSghST3a/giphy.gif" width="600" height="400"/></p>
+
 - 📫 How to reach me **jeanprs@msn.com**
 
 - ⚡ Fun fact **i love games specially Rainbow Six Siege**
